@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=git-gauravtech&label=Profile%20views&color=0e75b6&style=flat" alt="git-gauravtech" /> </p>
 
-- 🔭 I’m currently working on **Ai agent Workflow**
+- 🔭 I’m currently working on **AI agents Workflow**
 
 - 🌱 I’m currently learning **Next.js and Agentic AI**
 
